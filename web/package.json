@@ -1,0 +1,1 @@
+{"name":"twonest-web-portals","private":true,"workspaces":["member","partner","admin"],"scripts":{"build:member":"npm run build --workspace=twonest-member","build:partner":"npm run build --workspace=twonest-partner","build:admin":"npm run build --workspace=twonest-admin"}}
